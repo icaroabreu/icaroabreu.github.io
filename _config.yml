@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Ícaro's Sacred Vault
+title:            Ícaro's Vault
 tagline:          'A Jekyll theme'
-description:      'I am a Android and Web Developer driven by challenge eager to leave his mark in this world'
+description:      'I am a Android and Web Developer driven by challenge eager to leave his mark in this world. Crazy for code well indented!'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
