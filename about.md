@@ -71,6 +71,13 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 >
 > - Participação na feira no estande do Governo do Estado do Acre em parceria com a Secretaria de Estado de Ciência e Tecnologia para a exibição do jogo **Space Visitors** (projeto pessoal).
 > - **Space Visitors** é um jogo educacional infanto-juvenil extracurricular de temática alienígena que utiliza uma pegada humorística para incentivar o jogador explorar o território, a história e o turismo acriano.
+>
+>**[#SWRB2014](https://twitter.com/hashtag/swrb2014), STARTUP WEEKEND RIO BRANCO**
+>
+>De 21/11/2014 até 23/11/2014 
+>
+> - Participação no evento de empreendedorismo atuando como Desenvolvedor Android com o projeto **Meu Apê** onde ficamos em terceiro lugar na competição.
+> - **Meu Apê** é um aplicativo para solucionar problemas frequentes daqueles que residem em apartamentos, condomínios, residenciais, kitchnet e etc.
 
 
 ----------
