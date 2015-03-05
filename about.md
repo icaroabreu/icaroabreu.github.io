@@ -5,7 +5,9 @@ title: About
 Ícaro Leandro de Abreu
 ======
 <img src="/images/its_a_me.png" alt="It's a me Ícaro!" style="margin-left:auto;margin-right:auto" />
-#####Endereço: Rua Nestor Silva, nº 86 – São Paulo SP | Email: [icaro.abreu@live.com](mailto:icaro.abreu@live.com) | Telefone: (11) 94637-8284
+#####Email: [icaro.abreu@live.com](mailto:icaro.abreu@live.com)
+#####Telefone: (11) 94637-8284
+#####Endereço: Rua Nestor Silva, nº 86 – São Paulo SP
 
 ----------
 

@@ -1,4 +1,4 @@
-Ícaro's Sacred Vault
+Ícaro's Vault
 ===============
 
 A simple and clean blog/portifolio made with **Jekyll**.
@@ -21,3 +21,5 @@ A simple and clean blog/portifolio made with **Jekyll**.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+
