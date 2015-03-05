@@ -16,23 +16,27 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 > ***Experiência***
 > 
 >**DESENVOLVEDOR ANDROID**, BWID INC.
+>
 >Dezembro de 2014 - Março de 2015
 
 > - **Principais Atividades**: Desenvolvimento de aplicação Android integrada com API em REST para buscador de restaurantes por swipe-card(Tinderlike app) e testes automatizados com Robotium e JUnit.  
 > - **Referência**: [https://play.google.com/store/apps/details?id=com.getbwid.bwid](https://play.google.com/store/apps/details?id=com.getbwid.bwid)
 
 > **ANALISTA DE DESENVOLVIMENTO**, CONTROLADORIA GERAL DO ESTADO DO ACRE
+>
 >Abril de 2014 - Dezembro de 2014
 
 > - **Principais Atividades**: Desenvolvimento, manutenção e customização de Aplicações Web em PHP, como por exemplo o Portal CGE Acre e aplicações internas como o sisDenúncia utilizando de controle de versão por GIT e Servidores remotos do Governo do Estado do Acre.
 
 
 > **ESTAGIARIO DE DESENVOLVIMENTO**, CONTROLADORIA GERAL DO ESTADO DO ACRE
+> 
 >Novembro de 2013 - Abril de 2014
 
 > - **Principais Atividades**: Desenvolvimento e customização de Aplicações Web em PHP, como por exemplo o Portal CGE Acre.
 
 > **ESTAGIARIO DE DESENVOLVIMENTO**, EMBRAPA - *EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA*
+>
 >Julho de 2011 – Junho de 2013
 
 > - **Principais Atividades**: Desenvolvimento de Aplicações Web em PHP e Java, como as primeiras versões da rede social Revitec (atualmente sob responsabilidade da Embrapa).
@@ -42,6 +46,7 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 > ***Escolaridade***
 > 
 > **SISTEMA DE INFORMAÇÃO**, UNIÃO EDUCACIONAL DO NORTE/FACULDADE BARÃO DO RIO BRANCO
+>
 > VII SEMESTRE
 > Ano de conclusão: 2015
 
@@ -50,14 +55,16 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 >***Curso ministrado***
 >
 >**INTRODUÇÃO AO PHONE GAP**, UNINORTE
-Data: 05/06/2013
-Carga horária: 3hs
+>
+> Data: 05/06/2013
+> Carga horária: 3hs
 
 ----------
 
 >***Atividade Extracurricular***
 >
 >**FEIRA EXPOT&C, 66ª REUNIÃO ANUAL DA SBPC**
+>
 >De 22/07/2014 até 27/07/2014 
 >
 > - Participação na feira no estande do Governo do Estado do Acre em parceria com a Secretaria de Estado de Ciência e Tecnologia para a exibição do jogo **Space Visitors** (projeto pessoal).
