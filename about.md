@@ -49,8 +49,7 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 > 
 > **SISTEMA DE INFORMAÇÃO**, UNIÃO EDUCACIONAL DO NORTE/FACULDADE BARÃO DO RIO BRANCO
 >
-> VII SEMESTRE
-> Ano de conclusão: 2015
+> Cursando
 
 ----------
 
