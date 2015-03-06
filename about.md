@@ -15,6 +15,22 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 
 ----------
 
+> ***Minhas habilidades***
+> 
+> - Desenvolvimento de aplicações para Android
+> - Desenvolvimento de aplicações Web com Node.js 
+> - Desenvolvimento Web Front-End Full (*HTML, CSS, jQuery, Javascript e AngulaJS*)
+> - Desenvolvimento de aplicações utilizando banco de dados em MongoDB, MySql e SQLite
+> - Desenvolvimento de aplicações Web PHP OO com MVC puro e funcional
+> - Desenvolvimento de aplicações Web PHP com Frameworks tais como: *Laravel*, *CakePHP* e *CodeIgniter*
+> - Desenvolvimento de Jogos utilizando C# com XNA e Unity 3D
+> - Diagramação – Indesign
+
+
+> Atualmente meus estudos estão focados em **Android**, **Node.js** e **AngulaJS**
+
+----------
+
 > ***Experiência***
 > 
 >**DESENVOLVEDOR ANDROID**, BWID INC.
@@ -80,17 +96,7 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 
 
 ----------
-> ***Conhecimentos adicionais***
-> 
-> - Desenvolvimento de aplicações para Android
-> - Desenvolvimento de aplicações Web com Node.js 
-> - Desenvolvimento Web Front-End Full (*HTML, CSS, jQuery, Javascript e AngulaJS*)
-> - Desenvolvimento de aplicações utilizando banco de dados em MongoDB, MySql e SQLite
-> - Linguagem de Programação Php OO com MVC puro e funcional
-> - Linguagem de Programação C# Com foco em desenvolvimento de jogos com XNA e Unity 3D
-> - Diagramação – Indesign
 
-----------
 > ***Idiomas***
 >  
 >  - Inglês Fluente
