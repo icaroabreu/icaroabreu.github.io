@@ -15,11 +15,11 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 
 ----------
 
-> ***Minhas habilidades***
+> ***Habilidades***
 > 
 > - Desenvolvimento de aplicações para Android
 > - Desenvolvimento de aplicações Web com Node.js 
-> - Desenvolvimento Web Front-End Full (*HTML, CSS, jQuery, Javascript e AngulaJS*)
+> - Desenvolvimento Web Front-End Full (*HTML, CSS, jQuery, Javascript e AngularJS*)
 > - Desenvolvimento de aplicações utilizando banco de dados em MongoDB, MySql e SQLite
 > - Desenvolvimento de aplicações Web PHP OO com MVC puro e funcional
 > - Desenvolvimento de aplicações Web PHP com Frameworks tais como: *Laravel*, *CakePHP* e *CodeIgniter*
@@ -27,7 +27,7 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 > - Diagramação – Indesign
 
 
-> Atualmente meus estudos estão focados em **Android**, **Node.js** e **AngulaJS**
+> Atualmente meus estudos estão focados em **Android**, **Node.js** e **AngularJS**
 
 ----------
 
