@@ -11,7 +11,7 @@ title: About
 
 ----------
 
-Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de apps para Android, tanto front-end quanto back-end. Tenho experiência em desenvolvimento de jogos com a Engine Unity 3D utilizando a linguagem C#. Tenho também experiência de trabalho com vários tipos de equipes (online e presencial) e principalmente valorizo o crescimento e comprometimento mútuo da empresa. Meu atual livro de cabeceira é o **Startup Enxuta** (*Lean Startup*) de Eric Ries.
+Sou desenvolvedor Web à 3 anos e meio e atualmente foco no desenvolvimento completo de apps para Android, tanto front-end quanto back-end. Tenho experiência em desenvolvimento de jogos com a Engine Unity 3D utilizando a linguagem C#. Tenho também experiência de trabalho com vários tipos de equipes (online e presencial) e principalmente valorizo o crescimento e comprometimento mútuo da empresa. Meu atual livro de cabeceira é o **Startup Enxuta** (*Lean Startup*) de Eric Ries.
 
 ----------
 
@@ -45,6 +45,7 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 >Abril de 2014 - Dezembro de 2014
 
 > - **Principais Atividades**: Desenvolvimento, manutenção e customização de Aplicações Web em PHP, como por exemplo o Portal CGE Acre e aplicações internas como o sisDenúncia utilizando de controle de versão por GIT e Servidores remotos do Governo do Estado do Acre.
+> - **Referência**: [http://cge.ac.gov.br/](http://cge.ac.gov.br/)
 
 
 > **ESTAGIARIO DE DESENVOLVIMENTO**, CONTROLADORIA GERAL DO ESTADO DO ACRE
@@ -52,6 +53,8 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 >Novembro de 2013 - Abril de 2014
 
 > - **Principais Atividades**: Desenvolvimento e customização de Aplicações Web em PHP, como por exemplo o Portal CGE Acre.
+> - **Referência**: [http://cge.ac.gov.br/](http://cge.ac.gov.br/)
+
 
 > **ESTAGIARIO DE DESENVOLVIMENTO**, EMBRAPA - *EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA*
 >
@@ -107,4 +110,4 @@ Sou desenvolvedor Web à 3 anos e atualmente foco no desenvolvimento completo de
 ####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
 ----------
 #####Ícaro Leandro de Abreu,
-05/03/2015 - São Paulo - SP
+12/03/2015 - São Paulo - SP
