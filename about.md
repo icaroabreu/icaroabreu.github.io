@@ -32,7 +32,13 @@ Sou desenvolvedor Web à 3 anos e meio e atualmente foco no desenvolvimento comp
 ----------
 
 > ***Experiência***
-> 
+>
+>**DESENVOLVEDOR ANDROID**, GUIZION
+>
+>Abril de 2015 - Atualmente
+
+> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST e etc.
+
 >**DESENVOLVEDOR ANDROID**, BWID INC.
 >
 >Dezembro de 2014 - Março de 2015
@@ -110,4 +116,4 @@ Sou desenvolvedor Web à 3 anos e meio e atualmente foco no desenvolvimento comp
 ####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
 ----------
 #####Ícaro Leandro de Abreu,
-12/03/2015 - São Paulo - SP
+13/05/2015 - São Paulo - SP
