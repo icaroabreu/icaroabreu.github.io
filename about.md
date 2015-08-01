@@ -6,12 +6,12 @@ title: About
 ======
 <img src="/images/its_a_me.png" alt="It's a me Ícaro!" style="margin-left:auto;margin-right:auto" />
 #####Email: [icaro.abreu@live.com](mailto:icaro.abreu@live.com)
-#####Telefone: (11) 94637-8284
-#####Endereço: Rua Nestor Silva, nº 86 – São Paulo SP
+#####Telefone: (41) 9798-9378
+#####Endereço: Rua Alferes Ângelo Sampaio, Bairro Água Verde, Curitiba - PR
 
 ----------
 
-Sou desenvolvedor Web à 3 anos e meio e atualmente foco no desenvolvimento completo de apps para Android, tanto front-end quanto back-end. Tenho experiência em desenvolvimento de jogos com a Engine Unity 3D utilizando a linguagem C#. Tenho também experiência de trabalho com vários tipos de equipes (online e presencial) e principalmente valorizo o crescimento e comprometimento mútuo da empresa. Meu atual livro de cabeceira é o **Startup Enxuta** (*Lean Startup*) de Eric Ries.
+Sou desenvolvedor Web à 4 anos e atualmente foco no desenvolvimento completo de apps para Android, tanto front-end quanto back-end. Tenho experiência em desenvolvimento de jogos com a Engine Unity 3D utilizando a linguagem C#. Tenho também experiência de trabalho com vários tipos de equipes (online e presencial) e principalmente valorizo o crescimento e comprometimento mútuo da empresa. Meu atual livro de cabeceira é o **Startup Enxuta** (*Lean Startup*) de Eric Ries.
 
 ----------
 
@@ -24,10 +24,9 @@ Sou desenvolvedor Web à 3 anos e meio e atualmente foco no desenvolvimento comp
 > - Desenvolvimento de aplicações Web PHP OO com MVC puro e funcional
 > - Desenvolvimento de aplicações Web PHP com Frameworks tais como: *Laravel*, *CakePHP* e *CodeIgniter*
 > - Desenvolvimento de Jogos utilizando C# com XNA e Unity 3D
-> - Diagramação – Indesign
 
 
-> Atualmente meus estudos estão focados em **Android**, **Node.js** e **AngularJS**
+> Atualmente meus estudos estão focados totalmente em **Android**
 
 ----------
 
@@ -37,7 +36,7 @@ Sou desenvolvedor Web à 3 anos e meio e atualmente foco no desenvolvimento comp
 >
 >Abril de 2015 - Atualmente
 
-> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST e etc.
+> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, WebSockets e etc.
 
 >**DESENVOLVEDOR ANDROID**, BWID INC.
 >
@@ -116,4 +115,4 @@ Sou desenvolvedor Web à 3 anos e meio e atualmente foco no desenvolvimento comp
 ####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
 ----------
 #####Ícaro Leandro de Abreu,
-13/05/2015 - São Paulo - SP
+01/08/2015 - São Paulo - SP
