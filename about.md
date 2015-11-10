@@ -7,7 +7,7 @@ title: About
 <img src="/images/its_a_me.png" alt="It's a me Ícaro!" style="margin-left:auto;margin-right:auto" />
 #####Email: [icaro.abreu@live.com](mailto:icaro.abreu@live.com)
 #####Telefone: (41) 9798-9378
-#####Endereço: Rua Alferes Ângelo Sampaio, Bairro Água Verde, Curitiba - PR
+#####Endereço: Rua Presidente Getúlio Vargas, Bairro Água Verde, Curitiba - PR
 
 ----------
 
@@ -32,11 +32,18 @@ Sou desenvolvedor Web à 4 anos e atualmente foco no desenvolvimento completo de
 
 > ***Experiência***
 >
+>**DESENVOLVEDOR ANDROID**, PIZZA JÁ
+>
+>Setembro de 2015 - Novembro de 2015
+
+> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, redes sociais e etc para buscador de pizzarias e catálogo de pedidos.
+> - **Referência**: [https://play.google.com/store/apps/details?id=com.pizzaja.app](https://play.google.com/store/apps/details?id=com.pizzaja.app)
+
 >**DESENVOLVEDOR ANDROID**, GUIZION
 >
 >Abril de 2015 - Atualmente
 
-> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, WebSockets e etc.
+> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, WebSockets, redes sociais e etc.
 
 >**DESENVOLVEDOR ANDROID**, BWID INC.
 >
@@ -110,9 +117,10 @@ Sou desenvolvedor Web à 4 anos e atualmente foco no desenvolvimento completo de
 >  - Inglês Fluente
 >  - Espanhol Intermediário
 >  - Alemão Básico
+>  - Libras Intermediário
 
 
 ####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
 ----------
 #####Ícaro Leandro de Abreu,
-01/08/2015 - São Paulo - SP
+10/11/2015 - Curitiba - PR
