@@ -41,7 +41,7 @@ Sou desenvolvedor Web à 4 anos e atualmente foco no desenvolvimento completo de
 
 >**DESENVOLVEDOR ANDROID**, GUIZION
 >
->Abril de 2015 - Atualmente
+>Abril de 2015 - Novembro de 2015
 
 > - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, WebSockets, redes sociais e etc. E principalmente otimização de desenvolvimento para alcance de metas em prazos curtos sujeitos a mudanças de escopo.
 
