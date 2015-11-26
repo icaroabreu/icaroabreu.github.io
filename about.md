@@ -43,7 +43,7 @@ Sou desenvolvedor Web à 4 anos e atualmente foco no desenvolvimento completo de
 >
 >Abril de 2015 - Atualmente
 
-> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, WebSockets, redes sociais e etc.
+> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, WebSockets, redes sociais e etc. E principalmente otimização de desenvolvimento para alcance de metas em prazos curtos sujeitos a mudanças de escopo.
 
 >**DESENVOLVEDOR ANDROID**, BWID INC.
 >
@@ -123,4 +123,4 @@ Sou desenvolvedor Web à 4 anos e atualmente foco no desenvolvimento completo de
 ####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
 ----------
 #####Ícaro Leandro de Abreu,
-10/11/2015 - Curitiba - PR
+26/11/2015 - Curitiba - PR
