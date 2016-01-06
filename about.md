@@ -11,7 +11,7 @@ title: About
 
 ----------
 
-Sou desenvolvedor Web à 4 anos e atualmente foco no desenvolvimento completo de apps para Android, tanto front-end quanto back-end. Tenho experiência em desenvolvimento de jogos com a Engine Unity 3D utilizando a linguagem C#. Tenho também experiência de trabalho com vários tipos de equipes (online e presencial) e principalmente valorizo o crescimento e comprometimento mútuo da empresa. Meu atual livro de cabeceira é o **Startup Enxuta** (*Lean Startup*) de Eric Ries.
+Sou um desenvolvedor Android movido à desafio, autodidata, responsável e atualizado com boas habilidades de comunicação e conhecimento completo do ciclo de vida de desenvolvimento para plataformas móveis. Sou desenvolvedor à 4 anos, 3 anos focados em desenvolvimento Web tanto front-end quanto back-end, e a mais de um ano totalmente focado em desenvolvimento de aplicativos para Android. Estou sempre buscando o caminho mais rápido para resolver um problema com qualidade e consistência.
 
 ----------
 
