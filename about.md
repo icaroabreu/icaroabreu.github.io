@@ -34,6 +34,13 @@ Sou desenvolvedor Web à 4 anos e atualmente foco no desenvolvimento completo de
 >
 >**DESENVOLVEDOR ANDROID**, PIZZA JÁ
 >
+>Dezembro de 2015 - Atualmente
+
+> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização e integração com API em REST, para classificados de Auto Peças e orçamento de peças para Automóveis.
+> - **Referência**: [http://www.buscarpeca.com.br/](http://www.buscarpeca.com.br/)
+
+>**DESENVOLVEDOR ANDROID**, PIZZA JÁ
+>
 >Setembro de 2015 - Novembro de 2015
 
 > - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, redes sociais e etc para buscador de pizzarias e catálogo de pedidos.
