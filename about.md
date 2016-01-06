@@ -130,4 +130,4 @@ Sou desenvolvedor Web à 4 anos e atualmente foco no desenvolvimento completo de
 ####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
 ----------
 #####Ícaro Leandro de Abreu,
-26/11/2015 - Curitiba - PR
+06/01/2016 - Curitiba - PR
