@@ -15,7 +15,7 @@ I'm a challenge driven, self taught, responsible and updated Android developer w
 
 ----------
 
-> ***Habilidades***
+> ***Skills***
 > 
 > - App Development in Android
 > - Web Development with Node.js 
