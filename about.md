@@ -75,7 +75,8 @@ I'm a challenge driven, self taught, responsible and updated Android developer w
 >
 > Date: 06/05/2013
 > Duration: 3hs
->- Used android as the target platform and windows phone to show how multi platform PhoneGap can be.
+>
+> - Used android as the target platform and windows phone to show how multi platform PhoneGap can be.
 
 ----------
 
