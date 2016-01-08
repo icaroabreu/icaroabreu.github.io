@@ -32,7 +32,7 @@ Sou um desenvolvedor Android movido à desafio, autodidata, responsável e atual
 
 > ***Experiência***
 >
->**DESENVOLVEDOR ANDROID**, PIZZA JÁ
+>**DESENVOLVEDOR ANDROID**, BUSCA PEÇAS
 >
 >Dezembro de 2015 - Atualmente
 
