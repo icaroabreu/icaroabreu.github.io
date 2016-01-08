@@ -65,7 +65,7 @@ I'm a challenge driven, self taught, responsible and updated Android developer w
 > 
 > **System of Information**, Uninorte
 >
-> Attending
+> Enrolled
 
 ----------
 
