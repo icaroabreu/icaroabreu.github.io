@@ -101,6 +101,7 @@ I'm a challenge driven, self taught, responsible and updated Android developer w
 
 > ***Languages***
 >  
+>  - Portuguese Native
 >  - Inglês Fluent
 >  - Espanhol Intermediate
 >  - Alemão Basic
