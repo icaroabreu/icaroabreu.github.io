@@ -6,128 +6,107 @@ title: About
 ======
 <img src="/images/its_a_me.png" alt="It's a me Ícaro!" style="margin-left:auto;margin-right:auto" />
 #####Email: [icaro.abreu@live.com](mailto:icaro.abreu@live.com)
-#####Telefone: (41) 9798-9378
-#####Endereço: Rua Presidente Getúlio Vargas, Bairro Água Verde, Curitiba - PR
+#####Phone: (41) 9798-9378
+#####Addess: Av. Presidente Getúlio Vargas, Água Verde, Curitiba - PR
 
 ----------
 
-Sou um desenvolvedor Android movido à desafio, autodidata, responsável e atualizado com boas habilidades de comunicação e conhecimento completo do ciclo de vida de desenvolvimento para plataformas móveis. Sou desenvolvedor à 4 anos, 3 anos focados em desenvolvimento Web tanto front-end quanto back-end, e a mais de um ano totalmente focado em desenvolvimento de aplicativos para Android. Estou sempre buscando o caminho mais rápido para resolver um problema com qualidade e consistência.
+I'm a challenge driven, self taught, responsible and updated Android developer with good communication skills and full knowledge of mobile development life cycle. I've been programming for about 4 years, 3 years as web developer and for more than 1 year totally focused in full stack Android development. I have worked remotely with teams as well as alone with the same level of respect and commitment. I'm always seeking the fastest way to solve a problem with quality and consistency.
 
 ----------
 
 > ***Habilidades***
 > 
-> - Desenvolvimento de aplicações para Android
-> - Desenvolvimento de aplicações Web com Node.js 
-> - Desenvolvimento Web Front-End Full (*HTML, CSS, jQuery, Javascript e AngularJS*)
-> - Desenvolvimento de aplicações utilizando banco de dados em MongoDB, MySql e SQLite
-> - Desenvolvimento de aplicações Web PHP OO com MVC puro e funcional
-> - Desenvolvimento de aplicações Web PHP com Frameworks tais como: *Laravel*, *CakePHP* e *CodeIgniter*
-> - Desenvolvimento de Jogos utilizando C# com XNA e Unity 3D
+> - App Development in Android
+> - Web Development with Node.js 
+> - Web Front-End Full (*HTML, CSS, jQuery, Javascript and AngularJS*)
+> - Integrations with database in MongoDB, MySql and SQLite
+> - Web Development with PHP OO with pure and functional MVC
+> - Web Development with PHP with Frameworks: *Laravel*, *CakePHP* and *CodeIgniter*
+> - Game Development in C# with XNA And Unity 3D
 
 
-> Atualmente meus estudos estão focados totalmente em **Android**
+> Currently i'm totally focused in **Android**
 
 ----------
 
-> ***Experiência***
+> ***Experience***
 >
->**DESENVOLVEDOR ANDROID**, PIZZA JÁ
+>**ANDROID DEVELOPER**, BUSCA PEÇAS
 >
->Dezembro de 2015 - Atualmente
+>2015 December - Today
 
-> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização e integração com API em REST, para classificados de Auto Peças e orçamento de peças para Automóveis.
-> - **Referência**: [http://www.buscarpeca.com.br/](http://www.buscarpeca.com.br/)
+> - **Main Activities**: Android App with geolocation and API in REST integration for auto parts retailers and estimate request.
+> - **Reference**: [http://www.buscarpeca.com.br/](http://www.buscarpeca.com.br/)
 
->**DESENVOLVEDOR ANDROID**, PIZZA JÁ
+>**ANDROID DEVELOPER**, PIZZA JÁ
 >
->Setembro de 2015 - Novembro de 2015
+>2015 September - 2015 November
 
-> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, redes sociais e etc para buscador de pizzarias e catálogo de pedidos.
-> - **Referência**: [https://play.google.com/store/apps/details?id=com.pizzaja.app](https://play.google.com/store/apps/details?id=com.pizzaja.app)
+> - **Main Activities**: It's basically a search engine for pizzeria with integrated menu. Was build with REST API, Google Maps and facebook integration. Worked locally with android team. My major contribution was layout related features.
+> - **Reference**: [https://play.google.com/store/apps/details?id=com.pizzaja.app](https://play.google.com/store/apps/details?id=com.pizzaja.app)
 
->**DESENVOLVEDOR ANDROID**, GUIZION
+>**ANDROID DEVELOPER**, GUIZION
 >
->Abril de 2015 - Novembro de 2015
+>2015 April - 2015 November
 
-> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, WebSockets, redes sociais e etc. Desenvolvimento de aplicação web em AngularJS utilizando de diversos frameworks desenvolvidos pela comunidade `open source`. E principalmente otimização de desenvolvimento para alcance de metas em prazos curtos sujeitos a mudanças de escopo.
+> - **Main Activities**: Development on android app with geolocation features, REST API, websockets and social media integration. Web Development in AngularJS using `open source` frameworks to speed up development. And mainly learn optimization of development to achieving goals in short deadlines with changing scope.
 
->**DESENVOLVEDOR ANDROID**, BWID INC.
+>**ANDROID DEVELOPER**, BWID INC.
 >
->Dezembro de 2014 - Março de 2015
+>2014 December - 2015 March
 
-> - **Principais Atividades**: Desenvolvimento de aplicação Android integrada com API em REST para buscador de restaurantes por swipe-card(Tinderlike app) e testes automatizados com Robotium e JUnit.  
-> - **Referência**: [https://play.google.com/store/apps/details?id=com.getbwid.bwid](https://play.google.com/store/apps/details?id=com.getbwid.bwid)
+> - **Main Activities**: Tinder-like app to find nearby restaurants, coffees, etc integrated with his REST API and facebook. I worked with a partner with version control (git) and automated tests with JUnit and Robotium, and my major contribution was rest integration, layout animations and android-sdk specific features.  
+> - **Reference**: [https://play.google.com/store/apps/details?id=com.getbwid.bwid](https://play.google.com/store/apps/details?id=com.getbwid.bwid)
 
-> **ANALISTA DE DESENVOLVIMENTO**, CONTROLADORIA GERAL DO ESTADO DO ACRE
->
->Abril de 2014 - Dezembro de 2014
+----------
 
-> - **Principais Atividades**: Desenvolvimento, manutenção e customização de Aplicações Web em PHP, como por exemplo o Portal CGE Acre e aplicações internas como o sisDenúncia utilizando de controle de versão por GIT e Servidores remotos do Governo do Estado do Acre.
-> - **Referência**: [http://cge.ac.gov.br/](http://cge.ac.gov.br/)
-
-
-> **ESTAGIARIO DE DESENVOLVIMENTO**, CONTROLADORIA GERAL DO ESTADO DO ACRE
+> ***Education***
 > 
->Novembro de 2013 - Abril de 2014
-
-> - **Principais Atividades**: Desenvolvimento e customização de Aplicações Web em PHP, como por exemplo o Portal CGE Acre.
-> - **Referência**: [http://cge.ac.gov.br/](http://cge.ac.gov.br/)
-
-
-> **ESTAGIARIO DE DESENVOLVIMENTO**, EMBRAPA - *EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA*
+> **System of Information**, Uninorte
 >
->Julho de 2011 – Junho de 2013
-
-> - **Principais Atividades**: Desenvolvimento de Aplicações Web em PHP e Java, como as primeiras versões da rede social Revitec (atualmente sob responsabilidade da Embrapa).
+> Attending
 
 ----------
 
-> ***Escolaridade***
-> 
-> **SISTEMA DE INFORMAÇÃO**, UNIÃO EDUCACIONAL DO NORTE/FACULDADE BARÃO DO RIO BRANCO
+>***Course Taught***
 >
-> Cursando
+>**PHONE GAP 101**, UNINORTE
+>
+> Date: 06/05/2013
+> Duration: 3hs
+>- Used android as the target platform and windows phone to show how multi platform PhoneGap can be.
 
 ----------
 
->***Curso ministrado***
+>***Extracurricular Activitie***
 >
->**INTRODUÇÃO AO PHONE GAP**, UNINORTE
+>**EXPOT&C FAIR, 66ª SBPC's Metting** - Game Exposition
 >
-> Data: 05/06/2013
-> Carga horária: 3hs
-
-----------
-
->***Atividade Extracurricular***
+> 07/22/2014 - 07/27/2014 
 >
->**FEIRA EXPOT&C, 66ª REUNIÃO ANUAL DA SBPC**
->
->De 22/07/2014 até 27/07/2014 
->
-> - Participação na feira no estande do Governo do Estado do Acre em parceria com a Secretaria de Estado de Ciência e Tecnologia para a exibição do jogo **Space Visitors** (projeto pessoal).
-> - **Space Visitors** é um jogo educacional infanto-juvenil extracurricular de temática alienígena que utiliza uma pegada humorística para incentivar o jogador explorar o território, a história e o turismo acriano.
+> - Participation in the fair in the Acre state government's stand in partnership with the Secretary of State for Science and Technology for the game display **Space Visitors** (personal project). 
+> - **Space Visitors** is an extracurricular educational children's game alien theme that uses a humorous footprint to encourage the player to explore Acre's territory, history and tourism.
 >
 >**[#SWRB2014](https://twitter.com/hashtag/swrb2014), STARTUP WEEKEND RIO BRANCO**
 >
->De 21/11/2014 até 23/11/2014 
+>11/21/2014 - 11/23/2014 
 >
-> - Participação no evento de empreendedorismo atuando como Desenvolvedor Android com o projeto **Meu Apê** onde ficamos em terceiro lugar na competição.
-> - **Meu Apê** é um aplicativo para solucionar problemas frequentes daqueles que residem em apartamentos, condomínios, residenciais, kitchnet e etc.
+> - Participation in entrepreneurship event acting as Android Developer with the project **Meu Apê** where we stayed in third place in the competition. 
+> - **Meu Apê** is an application to solve common problems of those who live in apartments, condominiums, residential, kitchenette and etc.
 
 
 ----------
 
-> ***Idiomas***
+> ***Languages***
 >  
->  - Inglês Fluente
->  - Espanhol Intermediário
->  - Alemão Básico
->  - Libras Intermediário
+>  - Inglês Fluent
+>  - Espanhol Intermediate
+>  - Alemão Basic
+>  - Libras (Brazilian Official Signal Language) Intermediate
 
 
-####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
+####I declare, upon my responsibility, trustyworthy the information displayed in this page
 ----------
 #####Ícaro Leandro de Abreu,
-06/01/2016 - Curitiba - PR
+01/08/2016 - Curitiba - PR
