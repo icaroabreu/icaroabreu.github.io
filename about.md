@@ -79,7 +79,7 @@ I'm a challenge driven, self taught, responsible and updated Android developer w
 
 ----------
 
->***Extracurricular Activitie***
+>***Extracurricular Activities***
 >
 >**EXPOT&C FAIR, 66ª SBPC's Metting** - Game Exposition
 >
