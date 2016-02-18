@@ -7,7 +7,6 @@ title: About
 <img src="/images/its_a_me.png" alt="It's a me Ícaro!" style="margin-left:auto;margin-right:auto" />
 #####Email: [icaro.abreu@live.com](mailto:icaro.abreu@live.com)
 #####Phone: (41) 9798-9378
-#####Addess: Av. Presidente Getúlio Vargas, Água Verde, Curitiba - PR
 
 ----------
 
