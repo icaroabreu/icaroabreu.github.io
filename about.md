@@ -111,4 +111,4 @@ I'm a challenge driven, self taught, responsible and updated Android developer w
 ####I declare, upon my responsibility, trustyworthy the information displayed in this page
 ----------
 #####Ícaro Leandro de Abreu,
-01/08/2016 - Curitiba - PR
+02/18/2016 - São Paulo - SP
