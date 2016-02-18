@@ -7,7 +7,6 @@ title: Sobre
 <img src="/images/its_a_me.png" alt="It's a me Ícaro!" style="margin-left:auto;margin-right:auto" />
 #####Email: [icaro.abreu@live.com](mailto:icaro.abreu@live.com)
 #####Telefone: (41) 9798-9378
-#####Endereço: Rua Presidente Getúlio Vargas, Bairro Água Verde, Curitiba - PR
 
 ----------
 
@@ -130,4 +129,4 @@ Sou um desenvolvedor Android movido à desafio, autodidata, responsável e atual
 ####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
 ----------
 #####Ícaro Leandro de Abreu,
-06/01/2016 - Curitiba - PR
+18/02/2016 - São Paulo - SP
