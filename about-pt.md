@@ -50,7 +50,7 @@ Sou um desenvolvedor Android movido à desafio, autodidata, responsável e atual
 >
 >Abril de 2015 - Novembro de 2015
 
-> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, integração com API em REST, WebSockets, redes sociais e etc. Desenvolvimento de aplicação web em AngularJS utilizando de diversos frameworks desenvolvidos pela comunidade `open source`. E principalmente otimização de desenvolvimento para alcance de metas em prazos curtos sujeitos a mudanças de escopo.
+> - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização, notificações, integração com API em REST, WebSockets, redes sociais e etc. Desenvolvimento de aplicação web em AngularJS utilizando de diversos frameworks desenvolvidos pela comunidade `open source`. E principalmente otimização de desenvolvimento para alcance de metas em prazos curtos sujeitos a mudanças de escopo.
 
 >**DESENVOLVEDOR ANDROID**, BWID INC.
 >
