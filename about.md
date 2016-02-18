@@ -50,7 +50,7 @@ I'm a challenge driven, self taught, responsible and updated Android developer w
 >
 >2015 April - 2015 November
 
-> - **Main Activities**: Development on android app with geolocation features, REST API, websockets and social media integration. Web Development in AngularJS using `open source` frameworks to speed up development. And mainly learn optimization of development to achieving goals in short deadlines with changing scope.
+> - **Main Activities**: Development on android app with geolocation features, notifications, REST API, websockets and social media integration. Web Development in AngularJS using `open source` frameworks to speed up development. And mainly learn optimization of development to achieving goals in short deadlines with changing scope.
 
 >**ANDROID DEVELOPER**, BWID INC.
 >
