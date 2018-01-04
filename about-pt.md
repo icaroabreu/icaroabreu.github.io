@@ -6,34 +6,24 @@ title: Sobre
 ======
 <img src="/images/its_a_me.png" alt="It's a me Ícaro!" style="margin-left:auto;margin-right:auto" />
 #####Email: [icaro.abreu@live.com](mailto:icaro.abreu@live.com)
-#####Telefone: (41) 9798-9378
-
+#####Telefone: (11) 94646-5153
 ----------
 
-Sou um desenvolvedor Android movido à desafio, autodidata, responsável e atualizado com boas habilidades de comunicação e conhecimento completo do ciclo de vida de desenvolvimento para plataformas móveis. Sou desenvolvedor à 4 anos, 3 anos focados em desenvolvimento Web tanto front-end quanto back-end, e a mais de um ano totalmente focado em desenvolvimento de aplicativos para Android. Estou sempre buscando o caminho mais rápido para resolver um problema com qualidade e consistência.
-
-----------
-
-> ***Habilidades***
-> 
-> - Desenvolvimento de aplicações para Android
-> - Desenvolvimento de aplicações Web com Node.js 
-> - Desenvolvimento Web Front-End Full (*HTML, CSS, jQuery, Javascript e AngularJS*)
-> - Desenvolvimento de aplicações utilizando banco de dados em MongoDB, MySql e SQLite
-> - Desenvolvimento de aplicações Web PHP OO com MVC puro e funcional
-> - Desenvolvimento de aplicações Web PHP com Frameworks tais como: *Laravel*, *CakePHP* e *CodeIgniter*
-> - Desenvolvimento de Jogos utilizando C# com XNA e Unity 3D
-
-
-> Atualmente meus estudos estão focados totalmente em **Android**
+Sou movido à desafio, autodidata, responsável e com boas habilidades de comunicação. Já trabalhei em equipes remotas, locais e sozinho com o mesmo nível de comprometimento e respeito. Estou sempre buscando a melhor e mais eficaz forma de resolver quaisquer desafios que se apresentem.
 
 ----------
 
 > ***Experiência***
 >
+>**LÍDER DE UNIDADE**, THE HOSTEL PAULISTA
+>
+>Abril de 2016 - Setembro de 2017
+
+> - **Principais Atividades**: Gerencia completa de unidade de hospedadem, desde marketing, relações públicas, implantação de hostels(The Hostel Morro e The Hostel Rio de Janeiro), recursos humanos, financeiro e operacional, porém, mais focado em empreendedorismo e liderança de equipe.
+
 >**DESENVOLVEDOR ANDROID**, BUSCA PEÇAS
 >
->Dezembro de 2015 - Atualmente
+>Dezembro de 2015 - Janeiro de 2016
 
 > - **Principais Atividades**: Desenvolvimento de aplicação Android com geolocalização e integração com API em REST, para classificados de Auto Peças e orçamento de peças para Automóveis.
 > - **Referência**: [http://www.buscarpeca.com.br/](http://www.buscarpeca.com.br/)
@@ -86,7 +76,7 @@ Sou um desenvolvedor Android movido à desafio, autodidata, responsável e atual
 > 
 > **SISTEMA DE INFORMAÇÃO**, UNIÃO EDUCACIONAL DO NORTE/FACULDADE BARÃO DO RIO BRANCO
 >
-> Cursando
+> Interrompido em 2014
 
 ----------
 
@@ -100,6 +90,12 @@ Sou um desenvolvedor Android movido à desafio, autodidata, responsável e atual
 ----------
 
 >***Atividade Extracurricular***
+>
+>**EMPRETEC, SEBRAE**
+>
+>De 22/05/2017 Até 26/05/2017
+>
+> - Participação no curso de Empreendedorismo criado pela ONU e ministrado no Brasil pelo SEBRAE.
 >
 >**FEIRA EXPOT&C, 66ª REUNIÃO ANUAL DA SBPC**
 >
@@ -115,6 +111,17 @@ Sou um desenvolvedor Android movido à desafio, autodidata, responsável e atual
 > - Participação no evento de empreendedorismo atuando como Desenvolvedor Android com o projeto **Meu Apê** onde ficamos em terceiro lugar na competição.
 > - **Meu Apê** é um aplicativo para solucionar problemas frequentes daqueles que residem em apartamentos, condomínios, residenciais, kitchnet e etc.
 
+----------
+
+> ***Habilidades***
+> 
+> - Desenvolvimento de aplicações para Android
+> - Desenvolvimento de aplicações Web com Node.js 
+> - Desenvolvimento Web Front-End Full (*HTML, CSS, jQuery, Javascript e AngularJS*)
+> - Desenvolvimento de aplicações utilizando banco de dados em MongoDB, MySql e SQLite
+> - Desenvolvimento de aplicações Web PHP OO com MVC puro e funcional
+> - Desenvolvimento de aplicações Web PHP com Frameworks tais como: *Laravel*, *CakePHP* e *CodeIgniter*
+> - Desenvolvimento de Jogos utilizando C# com XNA e Unity 3D
 
 ----------
 
@@ -125,8 +132,7 @@ Sou um desenvolvedor Android movido à desafio, autodidata, responsável e atual
 >  - Alemão Básico
 >  - Libras Intermediário
 
-
 ####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
 ----------
 #####Ícaro Leandro de Abreu,
-18/02/2016 - São Paulo - SP
+04/01/2018 - São Paulo - SP
