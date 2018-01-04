@@ -9,7 +9,7 @@ permalink:        /:title/
 title:            Ícaro's Vault
 tagline:          'A Jekyll Blog'
 description:      'I am a Android and Web Developer driven by challenge eager to leave his mark in this world. Crazy for code well indented!'
-url:              http://hyde.getpoole.com
+url:               https://github.com/icaroabreu
 baseurl:          /
 
 author:
