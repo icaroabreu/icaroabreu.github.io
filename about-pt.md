@@ -7,6 +7,7 @@ title: Sobre
 <img src="/images/its_a_me.png" alt="It's a me Ícaro!" style="margin-left:auto;margin-right:auto" />
 #####Email: [icaro.abreu@live.com](mailto:icaro.abreu@live.com)
 #####Telefone: (11) 94646-5153
+
 ----------
 
 Sou movido à desafio, autodidata, responsável e com boas habilidades de comunicação. Já trabalhei em equipes remotas, locais e sozinho com o mesmo nível de comprometimento e respeito. Estou sempre buscando a melhor e mais eficaz forma de resolver quaisquer desafios que se apresentem.
@@ -131,6 +132,7 @@ Sou movido à desafio, autodidata, responsável e com boas habilidades de comuni
 >  - Espanhol Intermediário
 >  - Alemão Básico
 >  - Libras Intermediário
+
 
 ####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
 ----------
