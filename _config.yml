@@ -9,8 +9,8 @@ permalink:        /:title/
 title:            Ícaro's Vault
 tagline:          'A Jekyll Blog'
 description:      'I am a Android and Web Developer driven by challenge eager to leave his mark in this world. Crazy for code well indented!'
-url:               https://github.com/icaroabreu
-baseurl:          /789
+url:              https://github.com/icaroabreu
+baseurl:          /
 
 author:
   name:           'Mark Otto'
