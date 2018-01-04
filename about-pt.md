@@ -6,8 +6,8 @@ title: Sobre
 ======
 <img src="/images/its_a_me.png" alt="It's a me Ícaro!" style="margin-left:auto;margin-right:auto" />
 
-#####Email: [icaro.abreu@live.com](mailto:icaro.abreu@live.com)
-#####Telefone: (11) 94646-5153
+>**Email**: [icaro.abreu@live.com](mailto:icaro.abreu@live.com)
+>**Telefone**: (11) 94646-5153
 
 ----------
 
@@ -135,7 +135,7 @@ Sou movido à desafio, sou autodidata, sou responsável e tenho boas habilidades
 >  - Libras Intermediário
 
 
-####Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.
+***Declaro, sob minha responsabilidade, serem verdadeiras as informações prestadas neste perfil profissional.***
 ----------
-#####Ícaro Leandro de Abreu,
+***Ícaro Leandro de Abreu***,
 04/01/2018 - São Paulo - SP
